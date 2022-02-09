@@ -1,0 +1,15 @@
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\bin\Debug\netcoreapp3.1\ThirdCourse.exe
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\bin\Debug\netcoreapp3.1\ThirdCourse.deps.json
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\bin\Debug\netcoreapp3.1\ThirdCourse.runtimeconfig.json
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\bin\Debug\netcoreapp3.1\ThirdCourse.runtimeconfig.dev.json
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\bin\Debug\netcoreapp3.1\ThirdCourse.dll
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\bin\Debug\netcoreapp3.1\ThirdCourse.pdb
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.csprojAssemblyReference.cache
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.Form1.resources
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.csproj.GenerateResource.cache
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.AssemblyInfoInputs.cache
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.AssemblyInfo.cs
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.csproj.CoreCompileInputs.cache
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.dll
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.pdb
+C:\Users\Rename\Desktop\С#\Экзамен\Экзамен на C#\ThirdCourse\ThirdCourse\obj\Debug\netcoreapp3.1\ThirdCourse.genruntimeconfig.cache
